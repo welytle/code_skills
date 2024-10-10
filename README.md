@@ -1,0 +1,1 @@
+This repo contains some simple examples of class creation and usage in Python. It also shows the result from initializing a poetry project in a repo
